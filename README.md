@@ -55,14 +55,14 @@ I'm a passionate **Student** and **Full Stack Developer** who loves building web
 
 ## 📌 Pinned Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Classy Goods](https://github.com/aaprince6/classy-goods) | Premium E-Commerce Site | CSS |
-| [Portfolio](https://github.com/aaprince6/portfolio) | Personal Portfolio | TypeScript |
-| [Scientific Calculator](https://github.com/aaprince6/scientific-calculator) | Scientific Calculator App | HTML |
-| [YouTube Analytics Dashboard](https://github.com/aaprince6/YouTubeAnalyticsDashboard) | YouTube Analytics Dashboard | JavaScript |
-| [Quiz System](https://github.com/aaprince6/quiz-system) | Interactive Quiz Platform | |
-| [Clock](https://github.com/aaprince6/clock) | Digital Clock App | HTML |
+| Project | Description | Stack | Live Demo |
+|---------|-------------|-------|-----------|
+| [Classy Goods](https://github.com/aaprince6/classy-goods) | Premium E-Commerce Site | CSS | [🔗](https://aaprince6.github.io/classy-goods/) |
+| [Portfolio](https://github.com/aaprince6/portfolio) | Personal Portfolio | TypeScript | [🔗](https://portfolio-sand-sigma-94.vercel.app/) |
+| [Scientific Calculator](https://github.com/aaprince6/scientific-calculator) | Scientific Calculator App | HTML | [🔗](https://aaprince6.github.io/scientific-calculator/) |
+| [YouTube Analytics Dashboard](https://github.com/aaprince6/YouTubeAnalyticsDashboard) | YouTube Analytics Dashboard | JavaScript | [🔗](https://aaprince6.github.io/YouTubeAnalyticsDashboard/) |
+| [Quiz System](https://github.com/aaprince6/quiz-system) | Interactive Quiz Platform | | |
+| [Clock](https://github.com/aaprince6/clock) | Digital Clock App | HTML | [🔗](https://aaprince6.github.io/clock/) |
 
 ---
 
